@@ -1,0 +1,23 @@
+.sidebar-home {
+    width: 200px;
+    background: hsl(241, 76%, 67%);
+    color: white;
+    padding: 20px;
+  }
+  
+  .sidebar-home h2 {
+    margin: 0;
+  }
+  
+  .sidebar-home a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .sidebar-home a:hover,
+  .sidebar-home .active {
+    background: rgb(12, 7, 7);
+  }
+  
